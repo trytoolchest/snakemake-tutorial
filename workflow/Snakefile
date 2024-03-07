@@ -48,5 +48,5 @@ rule plot_quals:
     conda:
         "envs/stats.yaml"
     notebook:
-        "notebooks/plot-quals.py.ipynb"
+        "scripts/plot-quals.py"
 

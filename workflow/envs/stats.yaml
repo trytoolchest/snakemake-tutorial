@@ -2,8 +2,14 @@ channels:
   - bioconda
   - conda-forge
 dependencies:
+<<<<<<< Updated upstream
   - pysam =0.17
   - altair =4.1
   - altair_saver =0.5
   - pandas =1.3
   - jupyter =1.0
+=======
+  - pysam
+  - matplotlib
+
+>>>>>>> Stashed changes
