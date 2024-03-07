@@ -1,3 +1,9 @@
+# Snakemake
 .snakemake
-#*
+
+# macOS
+.DS_Store
+
+# emacs
+\#*\#
 *~
