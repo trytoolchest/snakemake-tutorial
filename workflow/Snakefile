@@ -47,6 +47,6 @@ rule plot_quals:
         "results/plots/quals.svg"
     conda:
         "envs/stats.yaml"
-    notebook:
-        "notebooks/plot-quals.py.ipynb"
+    script:
+        "scripts/plot-quals.py"
 
