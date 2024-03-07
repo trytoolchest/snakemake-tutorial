@@ -7,3 +7,6 @@
 # emacs
 \#*\#
 *~
+
+# Jupyter notebooks
+.ipynb_checkpoints
